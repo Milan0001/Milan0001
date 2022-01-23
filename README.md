@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Milan0001.
+- 👀 I care about everything.
+- 🌱 I’m currently learning JavaScript.
